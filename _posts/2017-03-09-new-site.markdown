@@ -1,0 +1,30 @@
+---
+title: "New Portfolio Site"
+layout: post
+date: 2017-03-09 00:57
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Daniel
+- UNC Charlotte
+- Japan
+star: false
+category: blog
+author: daniel
+description: Statement of purpose for this site & blog.
+---
+
+## Hello World :
+<center>
+<img src="/assets/images/japan.jpg" alt="Drawing" style="width: 200px;"/>
+</center>
+
+
+In anticipation for applying to internships for this summer I decided to get something a bit more coherent up for my personal website. I had been sitting on the domain but while I'm currently undertaking the maximum credit hours at University, interning, participating in clubs on campus, working on my Gilman Scholarship follow-on project, working part-time, and other extra-curriculars my downtime has been a bit restricted. I've began coding a new site from scratch but need something a bit more quickly to act as an interface to give myself a face as a candidate with potential employers for summer internships. 
+
+I will soon begin uploading some projects and work related to both majors to give an insight into some of the stuff I've been doing during my time studying at UNC Charlotte. I also hope to begin working on personal projects and uploading some additional code up to my github repository. Thanks for taking the time to check my site out.
+
+
+
+
+

@@ -1,0 +1,52 @@
+---
+title: "UKIYO - Gilman Scholarship Follow-on Project"
+layout: post
+date: 2017-03-09 01:54
+tag: 
+- Gilman Scholarship
+- Japan
+- WebDev
+image: 
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Group Project on a Hueristic Evaluation of the Slack Application"
+jemoji: '<img class="emoji" title=":jp:" alt=":jp:" src="https://assets.github.com/images/icons/emoji/unicode/1f1ef.png" height="20" width="20" align="absmiddle">'
+category: project
+author: daniel
+externalLink: false
+---
+
+## UKIYO - Gilman Scholarship Follow-on Project :
+
+<center>
+<a href="http://ukiyo.netlify.com/"><img src="/assets/images/ukiyoScreen.png" alt="ukiyo" style="width: 400px;"/></a>
+<br><br>
+<a href="http://ukiyo.netlify.com/"> UKIYO </a>
+</center>
+
+#### Currently migrating posts from GitHub pages to Ukiyo site.
+
+
+During the summer of 2016 I learned that I had been awarded the Benjamin A. Gilman Scholarship to study abroad for the Fall 2016 semester in Machida, Japan. As a part of receiving the Gilman Scholarship I'm required to complete a follow-on project within 6 months of my return from Japan. For my follow-on project I decided to utilize my programming and computer science skills to build a blog/website to post content to during my time within Japan. 
+
+<center>
+<img src="https://blog.wercker.com/hs-fs/hubfs/images/posts/2013-07-28-Week-In-Review-For-July-28th/wercker%2Bgitpages.png?t=1481290811819&width=750&name=wercker%2Bgitpages.png" alt="wercker + github pages" style="width: 400px;"/>
+</center>
+
+I set my project up into three phases. The first phase was upon notification I would begin building a website to host content that I would then develop and create while abroad in Japan. The Gilman Scholarship cycle that I was a part of was a bit competitive and the notifications of awards were a bit late so I only had two weeks to develop a site before my departure to Japan. I came up with a quick solution maintain a blog like structure on my GitHub page that would allow me to organize updates and deploy automatically using the automated deployment service <a href="http://www.wercker.com/">Wercker</a>. 
+
+<center>
+<img src="/assets/images/videoBlog.png" alt="ukiyo" style="width: 400px;"/>
+</center>
+
+While in Japan I made short videos to update my blog with every week using an 4k Yi Action Cam and editing and processing in Adobe Premiere. Most of the videos were usually locational base, capturing what it was like living or visiting to the Tokyo/Yokohama area. While the original design was extremely basic it allowed me to organize my content while I was abroad. I however decided to redesign the site to something a bit more visually appealing. While I have the basis of the new site set up I also chose to hosting and automated deployment with the <a href="https://www.netlify.com/">Netlify</a> platform. 
+
+I've finished all but two videos and want to add some additional content which I hope to do in the coming weeks as I finish applications to internships. I also hope after I finish my Gilman follow-on project requirements that I could repurpose the site for a full scale blog to help in assisting people interested in studying or living abroad in Japan or specifically the the Tokyo/Yokohama area. I also hope to return to Japan upon graduation so hopefully I'll be able to consistently add more developed and thought out content down the road. 
+
+Thanks for reading and feel free to check out the site as I work to migrate the old posts to the new <a href="http://ukiyo.netlify.com/">UKIYO</a> site.
+
+
+
+
+
